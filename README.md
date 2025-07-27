@@ -53,9 +53,13 @@
 
 <h2 align="left">📂 Notable Projects</h2>
 
-- 🧾 **Blog API System** – RESTful API using Node.js, Express, MongoDB, Mongoose. Includes CRUD, validation, and auth  
-- 🔐 **Auth System** – Secure login and registration using JWT, bcrypt, validation with Joi  
-- 🛒 **E-Commerce DB Design** – MySQL schema covering users, products, orders, and payments  
+--🧾 Blog API System – RESTful API using Node.js, Express, MongoDB, Mongoose. Includes CRUD, validation, and auth
+Notes: Uses multer for image/video uploads, includes admin roles, blog ownership checks, pagination, search, and soft delete. Secured with helmet and dotenv
+--🔐 Notes App – Secure note management with full auth and session control
+Notes: Implements OTP system for email verification and password reset. Uses JWT, bcrypt, Joi, and Redis for rate limiting. Encrypted phone numbers and secure structure with helmet, hpp, and dotenv
+--🛒 E-Commerce DB Design – MySQL schema covering users, products, orders, and payments
+Notes: Supports product variants (size/price), normalized structure, ERD with table booking, deposit tracking, and product-category relationships
+
 
 ###
 
