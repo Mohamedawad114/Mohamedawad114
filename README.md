@@ -53,14 +53,15 @@
 
 <h2 align="left">📂 Notable Projects</h2>
 
---🧾 Blog API System – RESTful API using Node.js, Express, MongoDB, Mongoose. Includes CRUD, validation, and auth
-Notes: Uses multer for image/video uploads, includes admin roles, blog ownership checks, pagination, search, and soft delete. Secured with helmet and dotenv
+--🧾 Blog API System – RESTful API using Node.js, Express, MySQL, Sequelize
+Notes: Includes CRUD, validation, and authentication. Uses Multer for image/video uploads, supports admin roles, blog ownership checks, pagination, search, and soft delete. Secured with Helmet and dotenv.
 
 --🔐 Notes App – Secure note management with full auth and session control
-Notes: Implements OTP system for email verification and password reset. Uses JWT, bcrypt, Joi, and Redis for rate limiting. Encrypted phone numbers and secure structure with helmet, hpp, and dotenv
+Notes: Implements OTP system for email verification and password reset. Uses JWT, bcrypt, Joi, and Redis for rate limiting. Encrypted phone numbers and secure structure with Helmet, HPP, and dotenv.
 
---🛒 E-Commerce DB Design – MySQL schema covering users, products, orders, and payments
-Notes: Supports product variants (size/price), normalized structure, ERD with table booking, deposit tracking, and product-category relationships
+--🦷 Dental Clinic DB Design – MySQL schema covering doctors, users, bookings, and advice
+Notes: Implements a full-featured booking system with encrypted phone numbers, OTP-based email confirmations, and media uploads to Cloudinary. Includes daily and monthly booking extraction, user-specific filtering, and a scheduled reminder system using node-cron to send email reminders at 9 AM on the booking day. Well-structured and normalized schema with clear relations between users, doctors, and medical advice.
+
 
 
 ###
