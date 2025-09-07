@@ -132,13 +132,48 @@
 - تذكير تلقائي عبر الإيميل عند الساعة 9 صباحًا في يوم الحجز.  
 - هيكلة قاعدة بيانات **منظمة ومطبعة (Normalized)** بعلاقات واضحة بين (Users – Doctors – Bookings – Advice).  
 
+## 🧾 Blog API System  
+**Overview:**  
+نظام **RESTful API** لإدارة المدونات (Blogs) مبني باستخدام Node.js و MySQL مع Sequelize ORM.  
+يدعم كامل العمليات (CRUD) بالإضافة إلى ميزات متقدمة مثل البحث والصفحات (Pagination) وإدارة الصلاحيات.  
+**Tech Stack:**  
+- Node.js, Express  
+- MySQL + Sequelize ORM  
+- Multer (لرفع الصور والفيديوهات)  
 
-## 🧾 Blog API System – RESTful API using Node.js, Express, MySQL, Sequelize
-Notes: Includes CRUD, validation, and authentication. Uses Multer for image/video uploads, supports admin roles, blog ownership checks, pagination, search, and soft delete. Secured with Helmet and dotenv.
+**Features:**  
+- CRUD كامل (إنشاء – تحديث – حذف – قراءة).  
+- **Validation & Authentication** مع التحكم في الأدوار (Admins / Users).  
+- رفع الصور والفيديوهات باستخدام **Multer**.  
+- التأكد من **ملكية التدوينة** (Blog Ownership Check).  
+- **Pagination & Search** لعرض المحتوى بكفاءة.  
+- **Soft Delete** بدل الحذف النهائي.  
 
-## 🔐 Notes App – Secure note management with full auth and session control
-Notes: Implements OTP system for email verification and password reset. Uses JWT, bcrypt, Joi, and Redis for rate limiting. Encrypted phone numbers and secure structure with Helmet, HPP, and dotenv.
+**Security:**  
+- **Helmet** لحماية الـ API.  
+- **dotenv** لإدارة المتغيرات السرية.  
 
+---
+## 🔐 Notes App – Secure Notes Management  
+**Overview:**  
+تطبيق لإدارة الملاحظات بشكل آمن مع دعم كامل للمصادقة والجلسات.  
+مبني مع التركيز على **الأمان** و **التحكم في الوصول**.  
+**Tech Stack:**  
+- Node.js, Express  
+- Redis (لـ Rate Limiting + OTP)  
+- JWT, bcrypt, Joi  
+
+**Features:**  
+- **OTP System** لتأكيد البريد الإلكتروني وإعادة تعيين كلمة المرور.  
+- مصادقة باستخدام **JWT** مع إدارة كاملة للجلسات.  
+- **Encrypted Phone Numbers** لتأمين بيانات المستخدمين.  
+- التحقق من صحة الإدخال (Validation) باستخدام **Joi**.  
+
+**Security:**  
+- **bcrypt** لتشفير كلمات المرور.  
+- **Helmet + HPP** للحماية من الهجمات الشائعة.  
+- **dotenv** لإدارة المفاتيح والبيئة السرية.  
+- Redis لعمل **Rate Limiting** ومنع محاولات الاختراق.  
 
 ###
 
