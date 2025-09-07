@@ -133,10 +133,10 @@
 - هيكلة قاعدة بيانات **منظمة ومطبعة (Normalized)** بعلاقات واضحة بين (Users – Doctors – Bookings – Advice).  
 
 
---🧾 Blog API System – RESTful API using Node.js, Express, MySQL, Sequelize
+## 🧾 Blog API System – RESTful API using Node.js, Express, MySQL, Sequelize
 Notes: Includes CRUD, validation, and authentication. Uses Multer for image/video uploads, supports admin roles, blog ownership checks, pagination, search, and soft delete. Secured with Helmet and dotenv.
 
---🔐 Notes App – Secure note management with full auth and session control
+## 🔐 Notes App – Secure note management with full auth and session control
 Notes: Implements OTP system for email verification and password reset. Uses JWT, bcrypt, Joi, and Redis for rate limiting. Encrypted phone numbers and secure structure with Helmet, HPP, and dotenv.
 
 
