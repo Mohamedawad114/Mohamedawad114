@@ -102,7 +102,7 @@
 
 **Deployment:**
 
-- مرفوع على AWS مع إعدادات إنتاج كاملة (MongoDB Atlas + Redis).
+- مرفوع على AWS , ngrok مع إعدادات إنتاج كاملة (MongoDB Atlas + Redis).
 ## ✉️ Saraha Anonymous Messaging
 **Overview:**  
 منصة تتيح إرسال رسائل مجهولة والرد عليها بدون كشف الهوية. تم تصميمها مع التركيز على **الأمان** و**الخصوصية** و**التوسع**.
