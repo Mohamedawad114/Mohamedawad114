@@ -1,4 +1,4 @@
-✨ Mohamed Awad — Backend Developer (Node.js / TypeScript)
+✨ Mohamed Awad — Backend Developer (Node.js / ExpresJs | NestJs)
 <p align="left">
 I’m Mohamed Awad, a Control & Computer Systems Engineer from Egypt with a deep passion for *backend development, **system architecture, and **scalable distributed systems*.
 </p>
