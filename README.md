@@ -1,232 +1,195 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Mohamed Awad and I'm a Control and Computer Systems Engineer from Egypt.</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
+✨ Mohamed Awad — Backend Developer (Node.js / TypeScript)
 <p align="left">
-💻 Passionate about backend development and software architecture<br>
-📚 Currently learning and working with modern web technologies like NestJS, TypeScript, and MongoDB<br>
-🧠 Solid foundation in C++, Data Structures, and Object-Oriented Programming (OOP)<br>
-🎯 Goal: Build scalable, secure, and well-structured backend systems for real-world applications<br>
+I’m Mohamed Awad, a Control & Computer Systems Engineer from Egypt with a deep passion for *backend development, **system architecture, and **scalable distributed systems*.
 </p>
 
-###
+🚀 About Me
+<p align="left">
+💻 Backend Engineer focused on building scalable, secure, high-performance systems<br>
+📚 Currently improving in *System Design, **SOLID, **Clean Architecture, and **Docker*<br>
+🧠 Strong background in *C++, **Data Structures, and **OOP Principles*<br>
+⚡ Experienced with *Node.js, **TypeScript, **MongoDB, **Redis, **Socket.io, and **Real-Time Apps*<br>
+🎯 Goal: Build production-level backend systems with real-time communication, queues, caching, and microservices patterns  
+</p>
 
-<h2 align="left">I code with</h2>
-
-###
-
+🛠 I Code With
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-  <img width="12" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Express.js logo" />
-  <img width="12" />
-  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40"/>
+  <img width="12"/>
+  <img src="https://nestjs.com/img/logo-small.svg" height="40"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
 </div>
 
-###
+📂 Notable Projects
+🚀 Social Media Platform
+Overview:
+A full-featured, real-time social media backend built with Node.js, TypeScript, MongoDB, Redis, Socket.io, and BullMQ, following SOLID principles and clean OOP architecture.
+Designed for scalability, security, and production-ready deployment with Docker, PM2, and AWS EC2 + Nginx.
+Features:
 
-<h2 align="left">📂 Notable Projects</h2>
-# 🚀 My Backend Projects
 
-هنا مجموعة من المشاريع العملية اللي قمت بتطويرها باستخدام **Node.js** و**Databases مختلفة** (MongoDB, PostgreSQL, MySQL,Expressjs).  
-التركيز الأساسي كان على: **الأمان – الأداء – التجربة العملية – الـ Deploy**.  
+Real-time chat (1:1 & group) with typing indicators and delivery status.
 
----
-## 🛒 E-commerce Platform
+Real-time notifications (read/unread) via Socket.io.
 
-**Overview:**
+User management: registration, login, roles, freeze/unfreeze, soft delete.
+
+Posts & comments with AWS S3 media uploads.
+
+Friend system with caching and efficient search.
+
+BullMQ queues for background emails and notifications.
+
+Redis caching for sessions, rate-limiting, and presence tracking.
+
+Tech Stack: Node.js, TypeScript, Express, MongoDB, Redis, BullMQ, Socket.io, AWS, Docker, PM2
+
+🛒 E-Commerce Platform
+Overview:
 منصة تجارة إلكترونية متكاملة لإدارة المنتجات، الطلبات، وحسابات المستخدمين. تم تطويرها مع التركيز على الأداء، الأمان، والتوسع، مع دعم الكاش والمهام المؤجلة (small Amazon).
+Tech Stack:
 
-**Tech Stack:**
+Node.js, Express
 
-- Node.js, Express
-- MongoDB, Mongoose
-- Redis, BullMQ
-- JWT, bcrypt
-- AWS (Deployment)
-- Swagger (API Docs)
+MongoDB, Mongoose
 
-**Features:**
+Redis, BullMQ
 
-- تسجيل الدخول والتسجيل للمستخدمين + إدارة الحسابات. 
-- إدارة المنتجات (إضافة، تعديل، حذف) + عرض أعلى المنتجات مبيعًا وتقييمًا.
-- ادارة الطلبات مع إلغاء تلقائي للطلبات Pending بعد 4 أيام باستخدام BullMQ + Node-Cron.
-- Stripe Integration:
+JWT, bcrypt
 
-دعم الدفع الآمن بالبطاقات.
-إنشاء Checkout Sessions وربطها بالطلبات.
-تحديث حالة الطلب تلقائيًا بعد الدفع
-- OTP عبر Redis للتحقق من البريد الإلكتروني واسترجاع الحساب.
-- نظام Ban/Unban للمستخدمين مع تخزين الكاش في Redis.
-- Email Queue & Notification Queue لإرسال تنبيهات البريد الإلكتروني بشكل غير متزامن.
+AWS (Deployment)
 
-**Security:**
+Swagger (API Docs)
 
-- JWT + Refresh Tokens
+Features:
 
-- التخزين الآمن في Cookies + Redis
-- إلغاء Refresh Tokens عند تغيير أو إعادة تعيين كلمة المرور.
-- bcrypt لتشفير كلمات المرور.
-- Helmet & CORS لتأمين الـ API.
-- Rate Limiting للحماية من الهجمات.
-- Global Error Handling موحد.
-- API Documentation:
 
-- موثق باستخدام Swagger (OpenAPI) لتسهيل اختبار الـ Endpoints والتكامل مع الخدمات الأخرى.
+تسجيل الدخول والتسجيل للمستخدمين + إدارة الحسابات.
 
-**Deployment:**
+إدارة المنتجات (إضافة، تعديل، حذف) + عرض أعلى المنتجات مبيعًا وتقييمًا.
 
-- مرفوع على AWS , ngrok مع إعدادات إنتاج كاملة (MongoDB Atlas + Redis).
-## ✉️ Saraha Anonymous Messaging
-**Overview:**  
-منصة تتيح إرسال رسائل مجهولة والرد عليها بدون كشف الهوية. تم تصميمها مع التركيز على **الأمان** و**الخصوصية** و**التوسع**.
+إدارة الطلبات مع إلغاء تلقائي للطلبات Pending بعد 4 أيام باستخدام BullMQ + Node-Cron.
 
-**Tech Stack:**  
-- Node.js, Express  
-- MongoDB, Redis  
-- Cloudinary, Nodemailer  
-- JWT, bcrypt  
-- Deploy على EvenNode  
+Stripe Integration لدفع آمن بالبطاقات.
 
-**Features:**  
-- إرسال واستقبال رسائل مجهولة + الرد عليها.  
-- رفع صور وملفات عبر **Cloudinary**.  
-- **OTP عبر Redis** لتأكيد البريد الإلكتروني وإعادة تعيين كلمة المرور.  
-- إرسال **إيميلات تنبيهية** لتأكيد الحساب واستعادة الوصول.  
-- استخدام **Transactions** لضمان الاتساق في العمليات الحساسة.  
+OTP عبر Redis للتحقق من البريد الإلكتروني واسترجاع الحساب.
 
-**Security:**  
-- **JWT + Refresh Tokens**:  
-  - التخزين في Cookies + Redis.  
-  - حذف Refresh Tokens تلقائيًا عند تغيير أو إعادة ضبط كلمة المرور.  
-- **bcrypt** لتشفير كلمات المرور.  
-- **Helmet & CORS** لحماية الـ API.  
-- **Global Error Handling** موحد.  
+نظام Ban/Unban للمستخدمين مع تخزين الكاش في Redis
 
-**Deployment:**  
-- مرفوع على **EvenNode** مع إعدادات إنتاج كاملة.  
+Email Queue & Notification Queue لإرسال التنبيهات غير المتزامنة.
 
----
+Security:
 
-## 🎓 Online Courses Platform
-**Overview:**  
-نظام إدارة كورسات مع خاصية الحجز والتصنيف، مع **Booking Workflow** متكامل وإيميلات تأكيد.  
+JWT + Refresh Tokens
 
-**Tech Stack:**  
-- Node.js, Express  
-- PostgreSQL + Sequelize ORM  
-- Nodemailer  
-- JWT, bcrypt  
 
-**Features:**  
-- عرض الكورسات حسب **Category**.  
-- **Search** بالكلمات المفتاحية.  
-- إظهار **أكثر الكورسات حجزًا**.  
-- Workflow للحجز: يبدأ `Pending` → يتحول `Confirmed` بعد موافقة الأدمن.  
-- إرسال **إيميل تأكيد** عند تأكيد الحجز.  
+التخزين الآمن في Cookies + Redis
 
-**Security:**  
-- **JWT + bcrypt** لتأمين الحسابات.  
-- **Helmet & CORS** كطبقة حماية إضافية.  
-- **Global Error Handling** لإدارة الأخطاء بشكل احترافي.  
+إلغاء Refresh Tokens عند تغيير أو إعادة تعيين كلمة المرور.
 
----
+bcrypt لتشفير كلمات المرور.
 
-## 🦷 Dental Clinic DB Design
-**Overview:**  
-تصميم قاعدة بيانات متكاملة لإدارة عيادة أسنان مع **نظام حجز ومتابعة**.  
+Helmet & CORS لتأمين الـ API.
 
-**Tech Stack:**  
-- MySQL  
-- Cloudinary  
-- Node-cron + Nodemailer 
-- ExpressJs
+Rate Limiting للحماية من الهجمات.
 
-**Features:**  
-- نظام حجز كامل مع تشفير أرقام الهواتف.  
-- **OTP عبر الإيميل** لتأكيد الحجز.  
-- رفع صور وملفات عبر Cloudinary.  
-- استخراج الحجوزات اليومية والشهرية.  
-- تذكير تلقائي عبر الإيميل عند الساعة 9 صباحًا في يوم الحجز.  
-- هيكلة قاعدة بيانات **منظمة ومطبعة (Normalized)** بعلاقات واضحة بين (Users – Doctors – Bookings – Advice).  
+Global Error Handling موحد.
 
-## 🧾 Blog API System  
-**Overview:**  
-نظام **RESTful API** لإدارة المدونات (Blogs) مبني باستخدام Node.js و MySQL مع Sequelize ORM.  
-يدعم كامل العمليات (CRUD) بالإضافة إلى ميزات متقدمة مثل البحث والصفحات (Pagination) وإدارة الصلاحيات.  
-**Tech Stack:**  
-- Node.js, Express  
-- MySQL + Sequelize ORM  
-- Multer (لرفع الصور والفيديوهات)  
+Deployment: AWS + MongoDB Atlas + Redis
 
-**Features:**  
-- CRUD كامل (إنشاء – تحديث – حذف – قراءة).  
-- **Validation & Authentication** مع التحكم في الأدوار (Admins / Users).  
-- رفع الصور والفيديوهات باستخدام **Multer**.  
-- التأكد من **ملكية التدوينة** (Blog Ownership Check).  
-- **Pagination & Search** لعرض المحتوى بكفاءة.  
-- **Soft Delete** بدل الحذف النهائي.  
+✉ Saraha Anonymous Messaging
+Overview:
+منصة لإرسال واستقبال رسائل مجهولة مع الرد عليها، مع التركيز على الأمان والخصوصية والتوسع.
+Tech Stack: Node.js, Express, MongoDB, Redis, Cloudinary, Nodemailer, JWT, bcrypt
+Features:
 
-**Security:**  
-- **Helmet** لحماية الـ API.  
-- **dotenv** لإدارة المتغيرات السرية.  
 
----
-## 🔐 Notes App – Secure Notes Management  
-**Overview:**  
-تطبيق لإدارة الملاحظات بشكل آمن مع دعم كامل للمصادقة والجلسات.  
-مبني مع التركيز على **الأمان** و **التحكم في الوصول**.  
-**Tech Stack:**  
-- Node.js, Express  
-- Redis (لـ Rate Limiting + OTP)  
-- JWT, bcrypt, Joi  
+إرسال واستقبال رسائل مجهولة + الرد عليها.
 
-**Features:**  
-- **OTP System** لتأكيد البريد الإلكتروني وإعادة تعيين كلمة المرور.  
-- مصادقة باستخدام **JWT** مع إدارة كاملة للجلسات.  
-- **Encrypted Phone Numbers** لتأمين بيانات المستخدمين.  
-- التحقق من صحة الإدخال (Validation) باستخدام **Joi**.  
+رفع صور وملفات عبر Cloudinary.
 
-**Security:**  
-- **bcrypt** لتشفير كلمات المرور.  
-- **Helmet + HPP** للحماية من الهجمات الشائعة.  
-- **dotenv** لإدارة المفاتيح والبيئة السرية.  
-- Redis لعمل **Rate Limiting** ومنع محاولات الاختراق.  
+OTP عبر Redis لتأكيد البريد الإلكتروني وإعادة تعيين كلمة المرور.
 
-###
+Email notifications لتأكيد الحساب واستعادة الوصول.
 
-<h2 align="left">📫 How to reach me</h2>
+استخدام Transactions لضمان الاتساق.
 
-- 📧 Email: mohamedahmedawad180@gmail.com  
-- 🌍 Location: Egypt  
-- 💬 Always open to backend collaboration or DB design projects
+Security:
 
----
+JWT + Refresh Tokens، تخزين في Cookies + Redis
 
-> “The only way to do great work is to love what you do.” – *Steve Jobs*
+bcrypt لتشفير كلمات المرور
+
+Helmet & CORS
+
+Global Error Handling
+
+Deployment: EvenNode
+
+🎓 Online Courses Platform
+Overview:
+نظام إدارة كورسات مع حجز وتصنيف، مع Workflow متكامل وإيميلات تأكيد.
+Tech Stack: Node.js, Express, PostgreSQL + Sequelize, Nodemailer, JWT, bcrypt
+Features:
+
+
+عرض الكورسات حسب Category
+
+Search بالكلمات المفتاحية
+
+أكثر الكورسات حجزًا
+Workflow للحجز: Pending → Confirmed
+
+Email confirmations
+
+Security: JWT + bcrypt + Helmet & CORS + Global Error Handling
+
+🦷 Dental Clinic DB Design
+Overview:
+تصميم قاعدة بيانات متكاملة لإدارة عيادة أسنان مع نظام حجز ومتابعة.
+Tech Stack: MySQL, Cloudinary, Node-Cron, Nodemailer, ExpressJS
+Features:
+
+
+نظام حجز كامل مع تشفير أرقام الهواتف
+
+
+OTP عبر الإيميل لتأكيد الحجز
+
+رفع صور وملفات عبر Cloudinary
+
+استخراج الحجوزات اليومية والشهرية
+
+تذكير تلقائي عبر الإيميل الساعة 9 صباحًا
+
+هيكلة قاعدة بيانات منظمة بعلاقات Users – Doctors – Bookings – Advice
+
+
+📫 Contact Me
+
+📧 Email: mohamedahmedawad180@gmail.com
+
+🌍 Location: Egypt
+💬 Open for backend collaborations or DB design projects
+
+
+“The only way to do great work is to love what you do.” – Steve Jobs
