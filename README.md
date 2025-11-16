@@ -40,6 +40,7 @@ I’m Mohamed Awad, a Control & Computer Systems Engineer from Egypt with a deep
 </div>
 
 📂 Notable Projects
+
 🚀 Social Media Platform
 Overview:
 A full-featured, real-time social media backend built with Node.js, TypeScript, MongoDB, Redis, Socket.io, and BullMQ, following SOLID principles and clean OOP architecture.
