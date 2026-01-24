@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohamed Awad
-### Backend Engineer | Node.js • NestJS • TypeScript
+### Backend Engineer | Node.js • Express.js • NestJS • TypeScript
 
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
