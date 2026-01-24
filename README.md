@@ -1,196 +1,66 @@
-✨ Mohamed Awad — Backend Developer (Node.js / ExpresJs | NestJs)
+# 👋 Hi, I'm Mohamed Awad
+### Backend Engineer | Node.js • NestJS • TypeScript
+
 <p align="left">
-I’m Mohamed Awad, a Control & Computer Systems Engineer from Egypt with a deep passion for *backend development, **system architecture, and **scalable distributed systems*.
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-🚀 About Me
+---
+
+### 🛠️ Engineering Mindset & Expertise
+* **System Architecture:** Designing High-Performance Scalable Systems with a focus on Clean Architecture and **SOLID** principles.
+* **Advanced Backend:** Expert in **Node.js/NestJS**, specialized in **GraphQL** APIs, and Real-time communication via **Socket.io**.
+* **Computer Science Core:** Strong command over **Data Structures (DS)**, **Algorithms**, and Advanced **OOP** patterns to write optimized and reusable code.
+* **Infrastructure & DevOps:** Practical experience with **AWS (EC2, S3)**, Dockerizing applications, and managing background tasks using **BullMQ**.
+* **Future Goals:** Deep diving into **AWS RDS** and complex **System Design Patterns**.
+
+---
+
+### 📂 Top Featured Projects
+
+#### 🏆 1. Advanced E-Commerce Ecosystem (NestJS)
+*High-performance modular system focused on security and modern architectural patterns.*
+* **Auth & Security:** 2FA (Google Authenticator), QR Code generation, and Redis-backed session management.
+* **Reliability:** Implementation of **Idempotency Keys** to ensure safe transaction retries.
+* **Payments:** Flexible Payment Strategy using **Stripe** (Webhooks, Refunds, Coupons).
+* **Quality:** Rigorous **Unit & E2E Testing** for core business logic.
+
+#### 🛒 2. E-Commerce Platform (Express.js)
+*A robust and efficient Express-based store emphasizing performance and smooth user flows.*
+* **Order Lifecycle:** Managed via **BullMQ** & **Node-Cron** for automated order expiry (4-day window).
+* **Optimization:** Search indexing and top-rated/best-seller analytics powered by **Redis** caching.
+* **Security:** Multi-layer protection using JWT Refresh Tokens, Cookies, and Rate Limiting.
+* **Media:** Fully integrated with **AWS S3** for media assets management.
+
+#### 🏎️ 3. High-Scalability Social Media Engine
+*Focus on real-time interaction and handling high-concurrency data.*
+* **Real-time:** Full-featured chat and notification system via **Socket.io**.
+* **Performance:** Unblocked architecture using **BullMQ** for asynchronous tasks.
+* **DS in Action:** Optimized friend-graph and search algorithms for low latency.
+
+#### ✉️ 4. Saraha - Anonymous Messaging (Enhanced)
+*A secure platform for anonymous communication with advanced privacy features.*
+* **Message Integrity:** Implementation of **Database Transactions** to ensure messages and replies are processed atomically.
+* **Security & Privacy:** High-level encryption for user data, OTP-based email verification using **Redis**, and secure media handling via **Cloudinary**.
+* **Scalability:** Optimized for growth using Global Error Handling and modular route structures.
+
+---
+
+### 📊 GitHub Stats
 <p align="left">
-💻 Backend Engineer focused on building scalable, secure, high-performance systems<br>
-📚 Currently improving in *System Design, **SOLID, **Clean Architecture, and **Docker*<br>
-🧠 Strong background in *C++, **Data Structures, and **OOP Principles*<br>
-⚡ Experienced with *Node.js, **TypeScript, **MongoDB, **Redis, **Socket.io, and **Real-Time Apps*<br>
-🎯 Goal: Build production-level backend systems with real-time communication, queues, caching, and microservices patterns  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
-🛠 I Code With
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40"/>
-  <img width="12"/>
-  <img src="https://nestjs.com/img/logo-small.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
-</div>
+---
 
-📂 Notable Projects
+### 📫 Connect with me
+* **Email:** [mohamedahmedawad180@gmail.com](mailto:mohamedahmedawad180@gmail.com)
+* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
-🚀 Social Media Platform
-Overview:
-A full-featured, real-time social media backend built with Node.js, TypeScript, MongoDB, Redis, Socket.io, and BullMQ, following SOLID principles and clean OOP architecture.
-Designed for scalability, security, and production-ready deployment with Docker, PM2, and AWS EC2 + Nginx.
-Features:
-
-
-Real-time chat (1:1 & group) with typing indicators and delivery status.
-
-Real-time notifications (read/unread) via Socket.io.
-
-User management: registration, login, roles, freeze/unfreeze, soft delete.
-
-Posts & comments with AWS S3 media uploads.
-
-Friend system with caching and efficient search.
-
-BullMQ queues for background emails and notifications.
-
-Redis caching for sessions, rate-limiting, and presence tracking.
-
-Tech Stack: Node.js, TypeScript, Express, MongoDB, Redis, BullMQ, Socket.io, AWS, Docker, PM2
-
-🛒 E-Commerce Platform
-Overview:
-منصة تجارة إلكترونية متكاملة لإدارة المنتجات، الطلبات، وحسابات المستخدمين. تم تطويرها مع التركيز على الأداء، الأمان، والتوسع، مع دعم الكاش والمهام المؤجلة (small Amazon).
-Tech Stack:
-
-Node.js, Express
-
-MongoDB, Mongoose
-
-Redis, BullMQ
-
-JWT, bcrypt
-
-AWS (Deployment)
-
-Swagger (API Docs)
-
-Features:
-
-
-تسجيل الدخول والتسجيل للمستخدمين + إدارة الحسابات.
-
-إدارة المنتجات (إضافة، تعديل، حذف) + عرض أعلى المنتجات مبيعًا وتقييمًا.
-
-إدارة الطلبات مع إلغاء تلقائي للطلبات Pending بعد 4 أيام باستخدام BullMQ + Node-Cron.
-
-Stripe Integration لدفع آمن بالبطاقات.
-
-OTP عبر Redis للتحقق من البريد الإلكتروني واسترجاع الحساب.
-
-نظام Ban/Unban للمستخدمين مع تخزين الكاش في Redis
-
-Email Queue & Notification Queue لإرسال التنبيهات غير المتزامنة.
-
-Security:
-
-JWT + Refresh Tokens
-
-
-التخزين الآمن في Cookies + Redis
-
-إلغاء Refresh Tokens عند تغيير أو إعادة تعيين كلمة المرور.
-
-bcrypt لتشفير كلمات المرور.
-
-Helmet & CORS لتأمين الـ API.
-
-Rate Limiting للحماية من الهجمات.
-
-Global Error Handling موحد.
-
-Deployment: AWS + MongoDB Atlas + Redis
-
-✉ Saraha Anonymous Messaging
-Overview:
-منصة لإرسال واستقبال رسائل مجهولة مع الرد عليها، مع التركيز على الأمان والخصوصية والتوسع.
-Tech Stack: Node.js, Express, MongoDB, Redis, Cloudinary, Nodemailer, JWT, bcrypt
-Features:
-
-
-إرسال واستقبال رسائل مجهولة + الرد عليها.
-
-رفع صور وملفات عبر Cloudinary.
-
-OTP عبر Redis لتأكيد البريد الإلكتروني وإعادة تعيين كلمة المرور.
-
-Email notifications لتأكيد الحساب واستعادة الوصول.
-
-استخدام Transactions لضمان الاتساق.
-
-Security:
-
-JWT + Refresh Tokens، تخزين في Cookies + Redis
-
-bcrypt لتشفير كلمات المرور
-
-Helmet & CORS
-
-Global Error Handling
-
-Deployment: EvenNode
-
-🎓 Online Courses Platform
-Overview:
-نظام إدارة كورسات مع حجز وتصنيف، مع Workflow متكامل وإيميلات تأكيد.
-Tech Stack: Node.js, Express, PostgreSQL + Sequelize, Nodemailer, JWT, bcrypt
-Features:
-
-
-عرض الكورسات حسب Category
-
-Search بالكلمات المفتاحية
-
-أكثر الكورسات حجزًا
-Workflow للحجز: Pending → Confirmed
-
-Email confirmations
-
-Security: JWT + bcrypt + Helmet & CORS + Global Error Handling
-
-🦷 Dental Clinic DB Design
-Overview:
-تصميم قاعدة بيانات متكاملة لإدارة عيادة أسنان مع نظام حجز ومتابعة.
-Tech Stack: MySQL, Cloudinary, Node-Cron, Nodemailer, ExpressJS
-Features:
-
-
-نظام حجز كامل مع تشفير أرقام الهواتف
-
-
-OTP عبر الإيميل لتأكيد الحجز
-
-رفع صور وملفات عبر Cloudinary
-
-استخراج الحجوزات اليومية والشهرية
-
-تذكير تلقائي عبر الإيميل الساعة 9 صباحًا
-
-هيكلة قاعدة بيانات منظمة بعلاقات Users – Doctors – Bookings – Advice
-
-
-📫 Contact Me
-
-📧 Email: mohamedahmedawad180@gmail.com
-
-🌍 Location: Egypt
-💬 Open for backend collaborations or DB design projects
-
-
-“The only way to do great work is to love what you do.” – Steve Jobs
+---
+> "The only way to do great work is to love what you do." – *Steve Jobs*
