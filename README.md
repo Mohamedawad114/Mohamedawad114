@@ -61,7 +61,7 @@
 
 ### 📫 Connect with me
 * **Email:** [mohamedahmedawad180@gmail.com](mailto:mohamedahmedawad180@gmail.com)
-* **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+* **LinkedIn:** [Your LinkedIn Profile](inkedin.com/in/mohamed-awad-15300826a/)
 
 ---
 > "The only way to do great work is to love what you do." – *Steve Jobs*
