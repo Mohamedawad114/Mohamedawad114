@@ -53,7 +53,7 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedawad114&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api?username=Mohamedawad114&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedawad114&layout=compact&theme=radical" />
 </p>
 
