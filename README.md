@@ -50,6 +50,15 @@
 * **Scalability:** Optimized for growth using Global Error Handling and modular route structures.
 
 ---
+## 🟩 My Contributions 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohamedawad114/Mohamedawad114/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohamedawad114/Mohamedawad114/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mohamedawad114/Mohamedawad114/output/pacman-contribution-graph.svg">
+</picture>
+
+---
 
 ### 📊 GitHub Stats
 <p align="left">
