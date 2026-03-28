@@ -1,55 +1,52 @@
 # 👋 Hi, I'm Mohamed Awad
-### Backend Engineer | Node.js • Express.js • NestJS • TypeScript
+### Computer & Control Systems Student 
+### Backend Engineer Node.js • Express.js • NestJS • TypeScript
 
 <p align="left">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ---
 
 ### 🛠️ Engineering Mindset & Expertise
-* **System Architecture:** Designing High-Performance Scalable Systems with a focus on Clean Architecture and **SOLID** principles.
-* **Advanced Backend:** Expert in **Node.js/NestJS**, specialized in **GraphQL** APIs, and Real-time communication via **Socket.io**.
-* **Computer Science Core:** Strong command over **Data Structures (DS)**, **Algorithms**, and Advanced **OOP** patterns to write optimized and reusable code.
-* **Infrastructure & DevOps:** Practical experience with **AWS (EC2, S3)**, Dockerizing applications, and managing background tasks using **BullMQ**.
-* **Future Goals:** Deep diving into **AWS RDS** and complex **System Design Patterns**.
+* **Academic Foundation:** Computer and Control Systems Engineering Student, with a solid grasp of **Computer Networking**, **Operating Systems**, and **Control Theory**.
+* **Problem Solving:** Passionate about solving complex problems; actively practicing **Data Structures (DS)** and **Algorithms** on **LeetCode**.
+* **System Architecture:** Crafting scalable backends using **Clean Architecture**, **SOLID** principles, **OOP**, and **Design Patterns**.
+* **Modern Stack:** Specialized in **NestJS**, **GraphQL**, and real-time event-driven systems using **Socket.io**.
+* **Database Management:** Expert at managing relational data with **Prisma (MySQL/PostgreSQL)** and non-relational modeling with **Mongoose (MongoDB)**.
+* **Performance & DevOps:** High-speed background processing with **BullMQ**, caching via **Redis**, and containerization with **Docker**.
 
 ---
 
 ### 📂 Top Featured Projects
 
-#### 🏆 1. Advanced E-Commerce Ecosystem (NestJS)
-*High-performance modular system focused on security and modern architectural patterns.*
-* **Auth & Security:** 2FA (Google Authenticator), QR Code generation, and Redis-backed session management.
-* **Reliability:** Implementation of **Idempotency Keys** to ensure safe transaction retries.
-* **Payments:** Flexible Payment Strategy using **Stripe** (Webhooks, Refunds, Coupons).
-* **Quality:** Rigorous **Unit & E2E Testing** for core business logic.
+#### 🤖 1. AI-Powered Job Search Engine
+*An intelligent recruitment ecosystem leveraging AI for automated CV analysis and hiring workflows.*
+* **Intelligence:** Automated CV analysis and smart skill matching for candidates.
+* **Communication:** Real-time chat and notification system for seamless hiring.
+* **Architecture:** Scalable backend built with **NestJS**, **Prisma (MySQL)**, and **MongoDB**.
+* [📂 View Repository](https://github.com/Mohamedawad114/job-search)
 
-#### 🛒 2. E-Commerce Platform (Express.js)
-*A robust and efficient Express-based store emphasizing performance and smooth user flows.*
-* **Order Lifecycle:** Managed via **BullMQ** & **Node-Cron** for automated order expiry (4-day window).
-* **Optimization:** Search indexing and top-rated/best-seller analytics powered by **Redis** caching.
-* **Security:** Multi-layer protection using JWT Refresh Tokens, Cookies, and Rate Limiting.
-* **Media:** Fully integrated with **AWS S3** for media assets management.
+#### 🏆 2. Advanced E-Commerce Ecosystem (Buyo)
+*High-performance modular system focused on security, stability, and modern payment flows.*
+* **Security:** 2FA (Google Authenticator), Redis session management, and Idempotency Keys.
+* **Payments:** Seamless **Stripe** integration featuring Webhooks, Refunds, and Coupons.
+* [📂 View Repository](https://github.com/Mohamedawad114/E-commerce-Buyo)
 
 #### 🏎️ 3. High-Scalability Social Media Engine
-*Focus on real-time interaction and handling high-concurrency data.*
-* **Real-time:** Full-featured chat and notification system via **Socket.io**.
-* **Performance:** Unblocked architecture using **BullMQ** for asynchronous tasks.
-* **DS in Action:** Optimized friend-graph and search algorithms for low latency.
-
-#### ✉️ 4. Saraha - Anonymous Messaging (Enhanced)
-*A secure platform for anonymous communication with advanced privacy features.*
-* **Message Integrity:** Implementation of **Database Transactions** to ensure messages and replies are processed atomically.
-* **Security & Privacy:** High-level encryption for user data, OTP-based email verification using **Redis**, and secure media handling via **Cloudinary**.
-* **Scalability:** Optimized for growth using Global Error Handling and modular route structures.
+*Focus on real-time interaction and handling massive concurrent data streams using modern API patterns.*
+* **APIs:** Built with **GraphQL** for flexible data fetching and **REST** for core services.
+* **Real-time:** Fully featured chat and live notification engine powered by **Socket.io**.
+* **Efficiency:** Unblocked task management using **BullMQ** for asynchronous processing.
+* [📂 View Repository](https://github.com/Mohamedawad114/Social-Media-App)
 
 ---
+
 ## 🟩 My Contributions 
 
 <picture>
@@ -63,14 +60,21 @@
 ### 📊 GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api?username=Mohamedawad114&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://leetcode-stats-six.vercel.app/api?username=Mohamedawad114&theme=dark" />
+</p>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedawad114&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 📫 Connect with me
-* **Email:** [mohamedahmedawad180@gmail.com](mailto:mohamedahmedawad180@gmail.com)
-* **LinkedIn:** [LinkedIn ](https://www.linkedin.com/in/mohamed-awad-15300826a/)
+### 📫 Let's Connect
+<p align="left">
+<a href="mailto:mohamedahmedawad180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohamed-awad-15300826a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/اكتب-اليوزر-بتاعك-هنا/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/Mohamedawad114"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 > "The only way to do great work is to love what you do." – *Steve Jobs*
