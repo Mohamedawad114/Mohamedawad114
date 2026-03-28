@@ -66,9 +66,7 @@
 
 ### 📊 Professional Stats
 <p align="left">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedawad114&theme=radical" /> <img height="180em" src="https://leetcard.jacoblin.cool/Mohamed_Awad11?theme=dark&font=Recursive&ext=activity" />
-</p>
-<p align="left">
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedawad114&theme=radical" />    <img height="180em" src="https://leetcard.jacoblin.cool/Mohamed_Awad11?theme=dark&font=Recursive&ext=activity" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedawad114&layout=compact&theme=radical" />
 </p>
 
