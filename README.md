@@ -6,7 +6,10 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
@@ -59,10 +62,8 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-<img height="180em" src="https://github-readme-stats-one-eight.vercel.app/api?username=Mohamedawad114&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://leetcode-stats-six.vercel.app/api?username=Mohamedawad114&theme=dark" />
-</p>
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedawad114&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://leetcard.jacoblin.cool/Mohamedawad114?theme=dark&font=Recursive&ext=activity" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedawad114&layout=compact&theme=radical" />
 </p>
 
@@ -72,7 +73,7 @@
 <p align="left">
 <a href="mailto:mohamedahmedawad180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohamed-awad-15300826a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/اكتب-اليوزر-بتاعك-هنا/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://leetcode.com/u/Mohamed_Awad11/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://github.com/Mohamedawad114"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
