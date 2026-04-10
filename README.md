@@ -34,7 +34,7 @@
 ### 📂 Top Featured Projects
 
 #### 🤖 1. AI-Powered Job Search Engine
-*An intelligent recruitment ecosystem leveraging AI for automated CV analysis and hiring workflows.*
+*An intelligent recruitment ecosystem leveraging AI for automated CV analysis and hiring workflows, Applied NLP / LLM Integration*
 * **Intelligence:** Automated CV analysis and smart skill matching for candidates.
 * **Communication:** Real-time chat and notification system for seamless hiring.
 * **Architecture:** Scalable backend built with **NestJS**, **Prisma (MySQL)**, and **MongoDB**.
