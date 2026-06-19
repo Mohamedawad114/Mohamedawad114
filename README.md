@@ -27,7 +27,7 @@
 
 * **Database Management:** Expert at managing relational data with **Prisma (MySQL/PostgreSQL)** and non-relational modeling with **Mongoose (MongoDB)**.
 
-* **Performance & DevOps:** High-speed background processing with **BullMQ**, caching via **Redis**, and containerization with **Docker**.
+* **Performance & DevOps:** High-speed background processing with **BullMQ**, caching via **Redis**,  containerization with **Docker** and **AWS** (ec2 ,IAM,S3) .
 
 ---
 
