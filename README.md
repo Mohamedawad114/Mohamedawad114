@@ -21,7 +21,7 @@
 
 * **Problem Solving:** Passionate about solving complex problems; actively practicing **Data Structures (DS)** and **Algorithms** on **LeetCode**.
 
-* **System Architecture:** Crafting scalable backends using **Clean Architecture**, **SOLID** principles, **OOP**, and **Design Patterns**.
+* **System Architecture:** Crafting scalable backends using **Clean Architecture**, **SOLID** principles, **OOP**,  **Design Patterns**, and **CQRS**.
 
 * **Modern Stack:** Specialized in **NestJS**, **GraphQL**, and real-time event-driven systems using **Socket.io**.
 
