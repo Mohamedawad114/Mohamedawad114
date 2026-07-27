@@ -15,7 +15,7 @@
 * **Problem Solving:** Passionate about solving complex problems; actively practicing **Data Structures (DS)** and **Algorithms** on **LeetCode**.
 * **System Architecture:** Crafting scalable backends using **Clean Architecture**, **SOLID** principles, **OOP**, **Design Patterns**, and **CQRS**.
 * **Modern Stack:** Specialized in **NestJS**, **GraphQL**, and real-time event-driven systems using **Socket.io**.
-* **Database Management:** Expert at managing relational data with **Prisma (MySQL/PostgreSQL)** and non-relational modeling with **Mongoose (MongoDB)**.
+* **Database Management:** Expert at managing relational data with **Prisma (MySQL/PostgreSQL)**, **Sequelize**, and non-relational modeling with **Mongoose (MongoDB)**.
 * **Performance & DevOps:** High-speed background processing with **BullMQ**, caching via **Redis**, containerization with **Docker** and **AWS** (EC2, IAM, S3).
 
 ---
@@ -44,12 +44,14 @@
   <img src="https://img.shields.io/badge/LLM_Providers-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-#### 🗄️ Databases & Caching
+#### 🗄️ Databases & ORMs
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
