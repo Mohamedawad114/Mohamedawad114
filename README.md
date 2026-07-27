@@ -1,24 +1,18 @@
 <!-- Header Section with Wave Animation -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=260&amp;section=header&amp;text=Mohamed%20Awad&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Header Wave" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=260&amp;section=header&amp;text=Mohamed%20Awad&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Engineer&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Header Wave" /> </p> <p align="center"> <b>Node.js • Express.js • NestJS • TypeScript</b> </p>
 
-<p align="center">
-  <b>Node.js • Express.js • NestJS • TypeScript</b>
-</p>
-
-### 🛠️ Engineering Mindset & Expertise
+### 🛠️ Engineering Mindset &amp; Expertise
 
 * **Academic Foundation:** Computer and Control Systems Engineering Student, with a solid grasp of **Computer Networking**, **Operating Systems**, and **Control Theory**.
 * **Problem Solving:** Passionate about solving complex problems; actively practicing **Data Structures (DS)** and **Algorithms** on **LeetCode**.
 * **System Architecture:** Crafting scalable backends using **Clean Architecture**, **SOLID** principles, **OOP**, **Design Patterns**, and **CQRS**.
 * **Modern Stack:** Specialized in **NestJS**, **GraphQL**, and real-time event-driven systems using **Socket.io**.
 * **Database Management:** Expert at managing relational data with **Prisma (MySQL/PostgreSQL)**, **Sequelize**, and non-relational modeling with **Mongoose (MongoDB)**.
-* **Performance & DevOps:** High-speed background processing with **BullMQ**, caching via **Redis**, containerization with **Docker** and **AWS** (EC2, IAM, S3).
+* **Performance &amp; DevOps:** High-speed background processing with **BullMQ**, caching via **Redis**, containerization with **Docker** and **AWS** (EC2, IAM, S3).
 
 ---
 
-### 💻 Tech Stack & Skills
+### 💻 Tech Stack &amp; Skills
 
 #### ⚙️ Backend Development
 <p align="left">
@@ -42,7 +36,7 @@
   <img src="https://img.shields.io/badge/LLM_Providers-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
 </p>
 
-#### 🗄️ Databases & ORMs
+#### 🗄️ Databases &amp; ORMs
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" />
@@ -53,7 +47,7 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" />
 </p>
 
-#### ☁️ DevOps & Tools
+#### ☁️ DevOps &amp; Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" />
