@@ -1,10 +1,6 @@
 <!-- Header Section with Wave Animation -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=260&amp;section=header&amp;text=Mohamed%20Awad&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&amp;descAlignY=62&amp;descAlign=50"
-    width="100%"
-    alt="Header Wave"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohamed%20Awad&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Wave" />
 </p>
 
 <p align="center">
