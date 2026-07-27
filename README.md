@@ -1,7 +1,7 @@
 <!-- Header Section with Wave Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Mohamed%20Awad&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&descAlignY=62&descAlign=50" width="100%" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=260&section=header&text=Mohamed%20Awad&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&descAlignY=62&descAlign=50" width="100%" alt="Header Wave" />
+</p>
 
 <p align="center">
   <b>Node.js • Express.js • NestJS • TypeScript</b>
