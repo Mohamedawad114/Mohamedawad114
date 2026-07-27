@@ -1,13 +1,15 @@
 <!-- Header Section with Wave Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=260&amp;section=header&amp;text=Mohamed%20Awad&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Header Wave" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;height=260&amp;section=header&amp;text=Mohamed%20Awad&amp;fontSize=55&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Computer%20%26%20Control%20Systems%20Student%20%7C%20Backend%20Engineer&amp;descAlignY=62&amp;descAlign=50"
+    width="100%"
+    alt="Header Wave"
+  />
 </p>
 
 <p align="center">
   <b>Node.js • Express.js • NestJS • TypeScript</b>
 </p>
-
----
 
 ### 🛠️ Engineering Mindset & Expertise
 
