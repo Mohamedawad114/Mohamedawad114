@@ -34,6 +34,7 @@
 #### 🤖 AI Integration
 <p align="left">
   <img src="https://img.shields.io/badge/LLM_Providers-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Workflows-00A67E?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG_Architecture-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Agent-009688?style=for-the-badge&logo=probot&logoColor=white" />
@@ -61,9 +62,8 @@
 ### 🚀 Future Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/AI_Workflows-00A67E?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&amp;logo=kubernetes&amp;logoColor=white" />
 </p>
 
