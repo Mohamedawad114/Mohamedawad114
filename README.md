@@ -33,7 +33,10 @@
 
 #### 🤖 AI Integration
 <p align="left">
-  <img src="https://img.shields.io/badge/LLM_Providers-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Providers-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Architecture-0052CC?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agent-009688?style=for-the-badge&logo=probot&logoColor=white" />
 </p>
 
 #### 🗄️ Databases &amp; ORMs
